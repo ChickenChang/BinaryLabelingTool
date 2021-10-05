@@ -1,0 +1,10 @@
+D:\workspace windows form\PhotoReview\PhotoReview\bin\Debug\PhotoReview.exe.config
+D:\workspace windows form\PhotoReview\PhotoReview\bin\Debug\PhotoReview.exe
+D:\workspace windows form\PhotoReview\PhotoReview\bin\Debug\PhotoReview.pdb
+D:\workspace windows form\PhotoReview\PhotoReview\obj\Debug\PhotoReview.Form1.resources
+D:\workspace windows form\PhotoReview\PhotoReview\obj\Debug\PhotoReview.Properties.Resources.resources
+D:\workspace windows form\PhotoReview\PhotoReview\obj\Debug\PhotoReview.csproj.GenerateResource.cache
+D:\workspace windows form\PhotoReview\PhotoReview\obj\Debug\PhotoReview.csproj.CoreCompileInputs.cache
+D:\workspace windows form\PhotoReview\PhotoReview\obj\Debug\PhotoReview.exe
+D:\workspace windows form\PhotoReview\PhotoReview\obj\Debug\PhotoReview.pdb
+D:\workspace windows form\PhotoReview\PhotoReview\obj\Debug\PhotoReview.csprojAssemblyReference.cache
